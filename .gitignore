@@ -17,3 +17,4 @@ project.properties
 Thumbs.db
 
 deploy-git-wordpress-org.sh
+deploy.sh
