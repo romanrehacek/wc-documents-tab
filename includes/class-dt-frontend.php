@@ -30,7 +30,7 @@ class DT_Frontend {
 		
 		if ( $product ) {
 			// Get product's documents.
-			$this->documents = get_post_meta( $product->id, '_dt_documents', true );
+			$this->documents = get_post_meta( $product->get_id(), '_dt_documents', true );
 			
 			// Add document's tab if documents for product exist
 			if ( $this->documents ) {
