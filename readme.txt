@@ -3,7 +3,9 @@ Contributors: romanrehacek
 Tags: woocommerce, documents, documentation, files, tab, product
 Requires at least: 4.4
 Tested up to: 4.7
-Stable tag: 1.0
+Stable tag: 1.1
+Contributors: romanrehacek, wpsjb
+Donate link: https://paypal.me/romanrehacek/25
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 

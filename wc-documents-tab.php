@@ -1,12 +1,14 @@
 <?php
 /*
-Plugin Name: WC Documents Tab
-Description: Add documents into a product tab
-Version:     1.0
-Author:      Roman Rehacek
-License:     GPL2
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: documents-tab
+Plugin Name:	WC Documents Tab
+Description:	Add documents into a product tab
+Version:    	1.1
+Author:     	Roman Rehacek
+Contributors:	romanrehacek, wpsjb
+Donate link:	https://paypal.me/romanrehacek/25
+License:    	GPL2
+License URI:	https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:	documents-tab
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
